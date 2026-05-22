@@ -1,0 +1,6 @@
+{
+  "name": "Personal Finance",
+  "description": "Track financial expenses, monthly spending trends, loans, and credit card debts, integrated with Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
